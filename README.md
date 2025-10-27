@@ -1,1 +1,1 @@
-# Toxic_sentnce_eraser
+# Toxic_sentence_eraser
